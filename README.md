@@ -5,10 +5,6 @@
 - If the person sees the camera you say, "It's one thing to check if you're a bot and the bot looks at your information to see if there's anything on your computer, it will say "BOT DETECTED" so that will work. not 
 
 
-<div style="width: 100%; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=py" style="width: 10%;">
-</div>
-
 > - [ ] SYSTEMINFO
 > - [x] SCREENSHOT WEBCAM
 > - [ ] SCREENSHOT DESKTOP
@@ -44,7 +40,7 @@
 </p>
 
 <div style="width: 100%; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=windows" style="width: 10%;">
+    <img src="https://skillicons.dev/icons?i=windows,py" style="width: 10%;">
 </div>
 
 
