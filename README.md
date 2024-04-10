@@ -5,7 +5,6 @@
 - If the person sees the camera you say, "It's one thing to check if you're a bot and the bot looks at your information to see if there's anything on your computer, it will say "BOT DETECTED" so that will work. not 
 
 
-> - [ ] SYSTEMINFO
 > - [x] SCREENSHOT WEBCAM
 > - [ ] SCREENSHOT DESKTOP
 > - [x] VIEW FILES 
