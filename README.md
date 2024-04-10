@@ -6,7 +6,7 @@
 
 
 <div style="width: 30%; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=py" style="width: 100%;">
+    <img src="https://skillicons.dev/icons?i=py" style="width: 30%;">
 </div>
 
 > - [ ] SYSTEMINFO
@@ -44,7 +44,7 @@
 </p>
 
 <div style="width: 30%; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=windows" style="width: 100%;">
+    <img src="https://skillicons.dev/icons?i=windows" style="width: 30%;">
 </div>
 
 
