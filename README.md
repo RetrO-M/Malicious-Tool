@@ -2,24 +2,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_dedsec_white.png" style="width: 100%;">
 </div>
 
-- If the person sees the camera you say, "It's one thing to check if you're a bot and the bot looks at your information to see if there's anything on your computer, it will say "BOT DETECTED" so that will work. not 
+- Above all, I am not responsible for your stupidity
 
+- Of course once again don't attack children 
 
-> - [x] SCREENSHOT WEBCAM
-> - [ ] SCREENSHOT DESKTOP
-> - [x] VIEW FILES 
-> - [ ] GOOGLE DATA
-> - [x] IP / IPV4
-> - [x] GeoLocation Link
-> - [x] EMAIL
-> - [x] Full Name
-> - [x] Discord Log
-> - [ ] Token Discord
-> - [x] COMPUTER INFORMATION   
 
 <br>
 
-[✅] 74% Discreet
+[✅] 94% Discreet
 
 <br>
 
@@ -30,17 +20,13 @@
 <br>
 
 
-- For people in trouble, my friend will build artificial intelligence for you, so that the robot can help you for "DARK STEALER" software Of course we can't give you the source code... otherwise the robot would be simple
+- For people in trouble, my friend will build artificial intelligence for you, so that the robot can help you for "DEDSEC STEALER" software Of course we can't give you the source code... otherwise the robot would be simple
 
 
 <p align="center">
   <a href="https://github.com/RetrO-M">Github Retr0</a>
   <a href="https://github.com/Gl0tch">Github _An0n_</a>
 </p>
-
-<div style="width: 100%; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=windows,py" style="width: 10%;">
-</div>
 
 
 <div style="width: 100%; text-align: center;">
