@@ -1,5 +1,5 @@
 <div style="width: 100%; text-align: center;">
-    <img src="img/1.png" style="width: 100%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_dedsec_white.png" style="width: 100%;">
 </div>
 
 - If the person sees the camera you say, "It's one thing to check if you're a bot and the bot looks at your information to see if there's anything on your computer, it will say "BOT DETECTED" so that will work. not 
