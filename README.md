@@ -10,5 +10,8 @@
 # C
 - The C version you want the files in a folder, maybe it's its folders, then its files on Linux
 
+# Batch
+- The Batch version you steal someone's information on windows
+
 # Important
 - I am not responsible...
