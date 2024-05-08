@@ -13,5 +13,11 @@
 # Batch
 - The Batch version you steal someone's information on windows
 
+# Shell
+- The Shell version you want the files in a folder, maybe it's its folders, then its files on Linux
+
+# C#
+- The C# version you want the files in a folder, maybe it's its folders, then its files on Linux
+
 # Important
 - I am not responsible...
