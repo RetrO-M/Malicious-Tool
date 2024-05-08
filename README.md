@@ -19,5 +19,8 @@
 # C#
 - The C# version you want the files in a folder, maybe it's its folders, then its files on Linux
 
+# Ruby
+- The Ruby version you want the files in a folder, maybe it's its folders, then its files on Linux
+
 # Important
 - I am not responsible...
