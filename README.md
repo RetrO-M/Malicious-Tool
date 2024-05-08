@@ -10,9 +10,6 @@
 # C
 - The C version you want the files in a folder, maybe it's its folders, then its files on Linux
 
-# Batch
-- The Batch version you steal someone's information on windows
-
 # Shell
 - The Shell version you want the files in a folder, maybe it's its folders, then its files on Linux
 
@@ -21,6 +18,9 @@
 
 # Ruby
 - The Ruby version you want the files in a folder, maybe it's its folders, then its files on Linux
+
+# Java
+- The Java version you want the files in a folder, maybe it's its folders, then its files on Linux
 
 # Important
 - I am not responsible...
