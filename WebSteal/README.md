@@ -7,7 +7,7 @@
 
 ```
 pip install requests
-pip install flasks
+pip install flask
 ```
 
 # Disclaimers
